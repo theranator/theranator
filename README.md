@@ -42,14 +42,6 @@ Every repo here is a step in that direction.
 
 ---
 
-## 📊 GitHub Stats
-
-![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theranator&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theranator&layout=compact&theme=tokyonight&hide_border=true)
-
----
-
 ## 📫 Get In Touch
 
 - Portfolio: *coming soon*
