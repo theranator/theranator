@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm John Miller 👋
 
-<!--
-**theranator/theranator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught developer focused on Python automation and embedded systems.  
+Currently building my skills from the ground up — one project at a time.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ What I Work With
+
+**Languages**
+- Python — scripting, automation, file I/O
+- C / C++ — Arduino and embedded hardware projects
+
+**Tools & Environment**
+- Linux (Ubuntu) — daily driver
+- Git & GitHub — version control and open source
+- VS Code — primary editor
+- Arduino IDE — hardware prototyping
+
+---
+
+## 🌱 Currently Learning
+
+- Python file I/O and automation workflows
+- Arduino hardware interfacing and sensor integration
+- Building a hireable developer profile through real projects
+
+---
+
+## 🔭 What I'm Building Toward
+
+I'm working toward becoming a professional developer — focused on  
+**Python automation**, **hardware projects**, and **open source contributions**.  
+Every repo here is a step in that direction.
+
+---
+
+## 📌 Featured Projects
+
+> Projects coming soon — currently laying the foundation.  
+> Check back as I build and push real work here.
+
+---
+
+## 📊 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theranator&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theranator&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 📫 Get In Touch
+
+- Portfolio: *coming soon*
+- LinkedIn: *coming soon*
+
+---
+
+*Always learning. Always building.*
