@@ -37,8 +37,12 @@ Every repo here is a step in that direction.
 
 ## 📌 Featured Projects
 
-> Projects coming soon — currently laying the foundation.  
-> Check back as I build and push real work here.
+### 🗂️ File Organizer
+A Python automation script that sorts files into folders by type with timestamp logging.
+
+- **Tech:** Python, standard library, Linux
+- **Highlights:** Automated file I/O, logging system, config-driven design
+- **Repo:** [file-organizer](https://github.com/theranator/file-organizer)
 
 ---
 
