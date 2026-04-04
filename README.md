@@ -20,9 +20,9 @@ Currently building my skills from the ground up — one project at a time.
 ---
 
 ## 🌱 Currently Learning
-
 - Python file I/O and automation workflows
 - Arduino hardware interfacing and sensor integration
+- Raspberry Pi and embedded Linux projects
 - Building a hireable developer profile through real projects
 
 ---
@@ -43,6 +43,13 @@ A Python automation script that sorts files into folders by type with timestamp 
 - **Tech:** Python, standard library, Linux
 - **Highlights:** Automated file I/O, logging system, config-driven design
 - **Repo:** [file-organizer](https://github.com/theranator/file-organizer)
+
+### 🌡️ Serial Logger
+A hardware + software data logger that reads live temperature from a TMP36 sensor
+via Arduino and logs it to a timestamped file using Python.
+- **Tech:** Python, Arduino C++, pyserial, Linux
+- **Highlights:** Serial communication, hardware-software integration, real-time data logging
+- **Repo:** [serial-logger](https://github.com/theranator/serial-logger)
 
 ---
 
