@@ -50,7 +50,7 @@ A Python automation script that sorts files into folders by type with timestamp 
 
 ## 📫 Get In Touch
 
-- Portfolio: *coming soon*
+- 🌐 [Portfolio](https://theranator.github.io)
 - LinkedIn: *coming soon*
 
 ---
