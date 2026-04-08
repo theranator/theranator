@@ -66,6 +66,12 @@ in any browser on the network.
 
 ---
 
+## 📊 GitHub Stats
+
+![John's GitHub Stats](https://github-readme-stats.vercel.app/api?username=theranator&show_icons=true&theme=dracula&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theranator&layout=compact&theme=dracula&hide_border=true)
+
 *Always learning. Always building.*
 
 
